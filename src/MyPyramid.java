@@ -9,4 +9,4 @@ public class MyPyramid {
                 for (int j = i; j >= 1; j--) {
                     System.out.print(j); }
                 System.out.println();}}
-        else {System.out.println("Only numbers less than or equal to: 9");}}}
+        else {System.out.println("Error: numbers less than or equal to 9 only allowed");}}}
